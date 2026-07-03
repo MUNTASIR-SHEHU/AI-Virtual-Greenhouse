@@ -6,7 +6,11 @@
       "Bash(git commit -m 'Initial commit: AI Virtual Greenhouse simulation *)",
       "Bash(brew install *)",
       "Bash(gh auth *)",
-      "Bash(gh repo *)"
+      "Bash(gh repo *)",
+      "Bash(git commit *)",
+      "Bash(git remote *)",
+      "Bash(git config *)",
+      "Bash(git push *)"
     ]
   }
 }
